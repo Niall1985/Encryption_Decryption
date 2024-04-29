@@ -3,17 +3,17 @@ This is a basic Python program that allows users to encrypt and decrypt messages
 
 ## How to Use
 1. Run the Program: Execute the Python script encryption_decryption.py.
-2. Input Options:
+### Input Options:
 1. Enter E to proceed to Encryption.
 2. Enter D to proceed to Decryption.
 3. Enter Q to exit the program.
-3. Encryption:
+### Encryption:
 1. Enter the text you want to encrypt when prompted.
 2. The program will generate a ciphertext using a substitution cipher and display both the plaintext and the ciphertext.
-4. Decryption:
+### Decryption:
 1. Enter the encrypted code (ciphertext) that you want to decrypt.
 2. The program will match the ciphertext with its corresponding plaintext and display the decrypted message.
-5. Exiting the Program:
+### Exiting the Program:
 1. Enter Q at any time to exit the program.
 # How It Works
 1. Encryption:
