@@ -37,8 +37,9 @@ def cipher_text():
     for key, value in dict.items():
         if value == cipher_text:
             print("Decrypted Message:",key)
-        else:
-            print("Incorrect Encryption input")
+            return key
+    print("Encrypted form of user input doesn't exist")
+    return None
 
 while True:
     program_run()
